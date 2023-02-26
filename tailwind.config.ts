@@ -43,6 +43,10 @@ export default {
       fontFamily: {
         sans: ['Nunito', ...defaultTheme.fontFamily.sans],
       },
+      fontSize: {
+        'xs': '.5rem',
+        'sm': '.7rem',
+      }
     },
   },
   shortcuts: {
