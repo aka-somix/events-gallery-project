@@ -6,8 +6,6 @@ useHead({
   meta: [
     { name: 'viewport', content: 'width=device-width, initial-scale=1' },
     {
-      hid: 'test',
-      name: 'test',
       content: 'Events Gallery',
     },
   ],
